@@ -8,7 +8,7 @@ Advanced splash screen
 
 ## Usage
 
-[Example](https://github.com/iampawan/Flutter-Walkthrough/blob/master/example/example_app.dart)
+[Example](https://github.com/apoorv9496/Flutter-advanced-splash-screen/blob/master/example/example.dart)
 
 To use this package :
 
